@@ -1,0 +1,1 @@
+将BCompareCrack.exe拷贝到Beyond Compare 4目录下即可
